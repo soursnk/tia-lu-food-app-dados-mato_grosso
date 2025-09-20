@@ -4,14 +4,12 @@ test3 = "isso é um teste3"
 
 print("Alooo")
 
-def menu():
-    menu = """
-    =================== MENU ===================
-    [1] \tCadastrar Item 
-    [2] \tAtualizar Item
-    [3] \tConsultar Itens
-    [4] \tDetalhes do Item
-    [0] \tSair
+menu = """
 
-    => """
-    return input(menu)
+[1] \tCadastrar Item 
+[2] \tAtualizar Item
+[3] \tConsultar Itens
+[4] \tDetalhes do Item
+[0] \tSair
+
+=> """
