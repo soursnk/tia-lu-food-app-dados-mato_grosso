@@ -15,3 +15,5 @@ def menu():
 
     => """
     return input(menu)
+
+print("DEU CERTOOOO")
